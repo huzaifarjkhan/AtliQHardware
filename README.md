@@ -20,3 +20,12 @@ After communication with the Sales Director (Primary Stakeholder) and other stak
           * Dashboard(s) uncovering sales order insights with the latest data available
           * Sales Analyst stops data gathering manually in order to save 20% of their business time and reinvest it in value added activities 
           
+
+
+# STEPS Taken to achieve success:
+
+ ### 1. Data Exploration in MYSQL Workbench
+ ### 2. Connecting MYSQL Database to Tableau
+ ### 3. ETL in Tableau
+ ### 4. Generating Required Calculated Fields
+ ### 5. 

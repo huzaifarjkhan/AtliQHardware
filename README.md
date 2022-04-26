@@ -25,7 +25,12 @@ After communication with the Sales Director (Primary Stakeholder) and other stak
 # STEPS Taken to achieve success:
 
  ### 1. Data Exploration in MYSQL Workbench
- ### 2. Connecting MYSQL Database to Tableau
+ ### 2. Connecting MYSQL Database to Tableau 
+        * Live OLTP database was connected with the tableau so that the client may enjoy live changes in their dashboard.
+        * Made Star Schema keeping 'transactions' as the fact table and others as dimension tables
  ### 3. ETL in Tableau
  ### 4. Generating Required Calculated Fields
- ### 5. 
+ ### 5. Creating Dashboard #1
+ ### 6. Taking feedback from the client
+ ### 7. Creating Dasboard #2
+ ### 8. Finalization
